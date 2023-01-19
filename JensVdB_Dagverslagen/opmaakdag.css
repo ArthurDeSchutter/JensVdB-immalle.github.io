@@ -8,14 +8,18 @@ nav{
     padding: 10px;
     background-color: #999;
     border-radius: 10px;
-    text-align: center;
     border: solid 2px black;
-    
 }
 
 nav ul{
     padding: 0px;
+    margin-left: auto;
 }
+nav div{
+    display:flex;
+}
+
+
 nav a{
     color: #003A70;
     background-color: white;
